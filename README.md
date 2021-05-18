@@ -11,3 +11,5 @@
 * Then, just as a proof of concept, I selected 3 issues (union: 221+ 15k + 8k = 17k) and 2 states (union: 170+244 = 346) and looked at the interesction of the above two (116) with the set of IDs that have an FCRA number (24k) to yield a final list of 30 NGOs.
 * Additional data can be used, e.g.  does it have a webpage, is there an e-mail contact etc ... to reduce the list further.
 * So in my opinion, this is ready to go live. I can upload the code and the data files to github, where @Rohan Varma can pick it up. If people think otherwise, let me know what else needs to be done or what other directions we are pursuing.
+.json files are dumps of the python dictionaries used in the code
+Sample... files are based on a 10k random sample from the full Darpan21FCRA set
