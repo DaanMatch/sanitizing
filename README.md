@@ -13,3 +13,7 @@
 * So in my opinion, this is ready to go live. I can upload the code and the data files to github, where @Rohan Varma can pick it up. If people think otherwise, let me know what else needs to be done or what other directions we are pursuing.
 .json files are dumps of the python dictionaries used in the code
 Sample... files are based on a 10k random sample from the full Darpan21FCRA set
+
+# Next steps
+
+I demo'ed the widgeted https://github.com/DaanMatch/RunNGOSearch to Cara.   One of her early searches that  we noticed 3 web site's out of 10 that were displayed the url was http:// (which does make me wonder how many records have 0 easily detectable errors).  I've have corrected many of those problems in 42621 Final_Data_ngodarpan.csv  I'd like to discuss providing "sanitized" results along side the original data or what kind of investment we'd need to make in sanitization before we can share those results and saved the openrefine transformations which I'd be happy to review with anyone who is
